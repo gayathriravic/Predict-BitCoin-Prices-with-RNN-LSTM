@@ -22,3 +22,5 @@ Used 3 layers of LSTM with 512 Neurons followed by a dropout factor of 0.25
 ‘tanh’ for activation function and Mean Squared Error for loss function.
 
 ```
+
+REFERENCE : https://medium.com/@siavash_37715/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109
