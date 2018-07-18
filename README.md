@@ -1,7 +1,6 @@
 # Predict-BitCoin-Prices-with-RNN-LSTM
 
-I have used historical data from www.coinmarketcap.com
-I get the daily price for BitCoin and Ethereum.
+I have used historical data from www.coinmarketcap.com . I get the daily price for BitCoin and Ethereum.
 
 Data Processing:
 ```
